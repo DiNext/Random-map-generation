@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0db79844097ec4ba0e5c9d56d6074a, type: 3}
+  m_Name: Default Texture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  layers:
+  - texture: {fileID: 2800000, guid: 7820a3f190fd4f645af778eb944c694d, type: 3}
+    tint: {r: 0.24230155, g: 0.3947956, b: 0.9339623, a: 0}
+    tintStrength: 0
+    startHeight: 0
+    blendStrength: 0.001
+    textureScale: 13.32
+  - texture: {fileID: 2800000, guid: 13a1d7e248697cb4f91510bf8265a12f, type: 3}
+    tint: {r: 0.8018868, g: 0.63749415, b: 0.3290762, a: 0}
+    tintStrength: 0
+    startHeight: 0.017
+    blendStrength: 0.01
+    textureScale: 7.6
+  - texture: {fileID: 2800000, guid: 99ea42b90daac0443bc74f997e35fc20, type: 3}
+    tint: {r: 0.38043243, g: 0.6226415, b: 0.3260057, a: 0}
+    tintStrength: 0
+    startHeight: 0.035
+    blendStrength: 0.011
+    textureScale: 4.85
+  - texture: {fileID: 2800000, guid: 46fbb4092e343fd41bb08c6f8599b416, type: 3}
+    tint: {r: 0.357784, g: 0.4245283, b: 0.24630652, a: 0}
+    tintStrength: 0
+    startHeight: 0.07
+    blendStrength: 0.02
+    textureScale: 9.82
+  - texture: {fileID: 2800000, guid: b97eed3c9f877d64f8a67ef13fa3d4a9, type: 3}
+    tint: {r: 0.3018868, g: 0.2836431, b: 0.05268779, a: 0}
+    tintStrength: 0
+    startHeight: 0.121
+    blendStrength: 0.048
+    textureScale: 7.8
+  - texture: {fileID: 2800000, guid: 479b13e59dd0e174b906b6d145af18e3, type: 3}
+    tint: {r: 0.3018868, g: 0.24352972, b: 0.09825561, a: 0}
+    tintStrength: 0
+    startHeight: 0.22
+    blendStrength: 0.117
+    textureScale: 10.05
+  - texture: {fileID: 2800000, guid: 379f7cf17f38f514a91d0ab6a23be6fd, type: 3}
+    tint: {r: 1, g: 1, b: 1, a: 0}
+    tintStrength: 0.379
+    startHeight: 0.696
+    blendStrength: 0.303
+    textureScale: 6.35
